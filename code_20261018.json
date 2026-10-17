@@ -1,0 +1,10 @@
+{
+  "sites": [
+    {
+      "key": "citong",
+      "name": "刺桐自营",
+      "api": "http://pg.cttv.vip/api.php/provide/vod",
+      "type": 1
+    }
+  ]
+}
