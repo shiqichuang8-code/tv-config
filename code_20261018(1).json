@@ -1,0 +1,232 @@
+{
+  "cache_time": 7200,
+  "api_site": {
+    "citong": {
+      "name": "刺桐高清┃自营",
+      "api": "http://pg.cttv.vip/api.php/provide/vod",
+      "detail": ""
+    },
+    "youzhi": {
+      "name": "优质资源┃刺桐",
+      "api": "https://api.yyzy-tv.vip/inc/api_mac10_all.php",
+      "detail": ""
+    },
+    "360zy": {
+      "name": "360资源┃刺桐",
+      "api": "shturl.cc/v8mMWeTAXTzobx6VbqaJgptwBy5l",
+      "detail": ""
+    },
+    "maoyan": {
+      "name": "猫眼资源┃刺桐",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod/",
+      "detail": ""
+    },
+    "niuniu": {
+      "name": "牛牛资源┃刺桐",
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/",
+      "detail": ""
+    },
+    "yaya": {
+      "name": "丫丫资源┃刺桐",
+      "api": "https://cj.yayazy.net/api.php/provide/vod/",
+      "detail": ""
+    },
+    "maotai": {
+      "name": "茅台资源┃刺桐",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn/",
+      "detail": ""
+    },
+    "haohua": {
+      "name": "豪华资源┃刺桐",
+      "api": "shturl.cc/7sxCb7LQe8MotOZxDGMcEZhqktn8D",
+      "detail": ""
+    },
+    "jisu": {
+      "name": "极速资源┃刺桐",
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "detail": ""
+    },
+    "douban": {
+      "name": "豆瓣资源┃刺桐",
+      "api": "shturl.cc/2x6sRCBH6JG4vjOp5bkw1ozOxEwjigX5BzKYLCdpmM",
+      "detail": ""
+    },
+    "suoni": {
+      "name": "索尼资源┃刺桐",
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "detail": ""
+    },
+    "okzy": {
+      "name": "OK资源┃刺桐",
+      "api": "https://api.okzyw.net/api.php/provide/vod/?ac=list",
+      "detail": ""
+    },
+    "feifan": {
+      "name": "非凡资源┃刺桐",
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "detail": ""
+    },
+    "liangzi": {
+      "name": "量子资源┃刺桐",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "detail": ""
+    },
+    "baofeng": {
+      "name": "暴风影视┃刺桐",
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "detail": ""
+    },
+    "yaya2": {
+      "name": "鸭鸭资源┃刺桐",
+      "api": "https://cj.yayazy.net/api.php/provide/vod/?ac=list",
+      "detail": ""
+    },
+    "ruyi": {
+      "name": "如意资源┃刺桐",
+      "api": "shturl.cc/BAuD7w6exAk3cORhrx14YspTnkAn6XfaQuTrC380c",
+      "detail": ""
+    },
+    "tiantang": {
+      "name": "天堂资源┃刺桐",
+      "api": "shturl.cc/SlgfCCCI5JzGaI2wt98TzPIjZcWePdmC3ABrBGD5BoddYq",
+      "detail": ""
+    },
+    "kuaiche": {
+      "name": "快车资源┃刺桐",
+      "api": "shturl.cc/o7lZBIQcMgsXuEgLDwBxAMqZqjIFC4sTUOmrCBZK3dMjsOSn",
+      "detail": ""
+    },
+    "shandian": {
+      "name": "闪电资源┃刺桐",
+      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "detail": ""
+    },
+    "yinghua": {
+      "name": "樱花资源┃刺桐",
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "detail": ""
+    },
+    "wolong": {
+      "name": "卧龙资源┃刺桐",
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+      "detail": ""
+    },
+    "uku": {
+      "name": "U酷资源┃刺桐",
+      "api": "shturl.cc/OJ3CxbMMSbT9I45kj5gyGvf4yCX4tWncc95",
+      "detail": ""
+    },
+    "guangsu": {
+      "name": "光速资源┃刺桐",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "detail": ""
+    },
+    "wangwang": {
+      "name": "旺旺短剧┃刺桐",
+      "api": "shturl.cc/wPQBQELblA0UF3SJql1LYCf5tJ0zCO",
+      "detail": ""
+    },
+    "tianya": {
+      "name": "天涯资源┃刺桐",
+      "api": "shturl.cc/VrX9J7Q64o1KCCaJmVBqzMrX7SPqGVr1",
+      "detail": ""
+    },
+    "piaohua": {
+      "name": "飘花影院┃刺桐",
+      "api": "shturl.cc/ZoWcGBRqRzNxOFRXR0i0iigajBdSRk2iy8d2WbdPb",
+      "detail": ""
+    },
+    "tianyi": {
+      "name": "天翼资源┃刺桐",
+      "api": "shturl.cc/oTuIgXRD105AbHXiuED3c03L6AKtENez3BeQ",
+      "detail": ""
+    },
+    "huya": {
+      "name": "虎牙资源┃刺桐",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/",
+      "detail": ""
+    },
+    "baidu": {
+      "name": "百度资源┃刺桐",
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "detail": ""
+    },
+    "piaoling": {
+      "name": "飘零影院┃刺桐",
+      "api": "shturl.cc/pzsBwLF5h6KZbLDyLDnXoHlYi3Pc",
+      "detail": ""
+    },
+    "wujin": {
+      "name": "无尽资源┃刺桐",
+      "api": "https://api.wujinapi.com/api.php/provide/vod/",
+      "detail": ""
+    },
+    "subo": {
+      "name": "速博资源┃刺桐",
+      "api": "https://subocaiji.com/api.php/provide/vod/",
+      "detail": ""
+    },
+    "modu": {
+      "name": "魔都动漫┃刺桐",
+      "api": "shturl.cc/4d0VTdAkaBh2JlKnxR9lgADoAQBycIl0xeh",
+      "detail": ""
+    },
+    "zuida": {
+      "name": "最大资源┃刺桐",
+      "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/",
+      "detail": ""
+    },
+    "qihoo": {
+      "name": "奇虎资源┃刺桐",
+      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/",
+      "detail": ""
+    },
+    "iqiyi": {
+      "name": "爱奇艺资源┃刺桐",
+      "api": "shturl.cc/hSKxdHHM86c3N5sozLEP0bsw7MT4mgkgz",
+      "detail": ""
+    },
+    "yingju": {
+      "name": "影剧资源┃刺桐",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/",
+      "detail": ""
+    },
+    "huohu": {
+      "name": "火狐资源┃刺桐",
+      "api": "shturl.cc/7sxCb7LQe8MotOZxDGMcEZhqktn8D",
+      "detail": ""
+    },
+    "xinlang": {
+      "name": "新浪资源┃刺桐",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "detail": ""
+    },
+    "789zy": {
+      "name": "789资源┃刺桐",
+      "api": "http://www.caiji.cyou/api.php/provide/vod/",
+      "detail": ""
+    },
+    "jinchan": {
+      "name": "金蝉资源┃刺桐",
+      "api": "https://zy.jinchancaiji.com/api.php/provide/vod/",
+      "detail": ""
+    },
+    "jianan": {
+      "name": "建安资源┃刺桐",
+      "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod/",
+      "detail": ""
+    },
+    "tingfeng": {
+      "name": "听风资源┃刺桐",
+      "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod/",
+      "detail": ""
+    }
+  },
+  "custom_category": [
+    {"name":"电影"},
+    {"name":"连续剧"},
+    {"name":"综艺"},
+    {"name":"动漫"},
+    {"name":"短剧"}
+  ]
+}
